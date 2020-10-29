@@ -44,6 +44,9 @@ ________________________________________________________________________________
   ![gitpush](Foto/gitindira.png) <br>
     - Tulislah judul yang kalian inginkan. Kalian'pun juga bisa mengatur Repository yang akan kalian buat menjadi Privasi ataupun Publik. <br>
     ![gitpush](Foto/gitrepository.png) <br>
+      - Pilih kolom yang bertuliskan 'README file' pada pilihan yang diberikan. <br>
+      ![gitpush](Foto/gitsave.png) <br>
+
 
          
 
