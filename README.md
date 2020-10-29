@@ -65,6 +65,10 @@ ________________________________________________________________________________
   
   - Kemudian kalian Klik Kanan, dan tekan pada kolom *'Git Bash Here'*. <br>
   ![gitpush](Foto/gitbash.png) <br>
+    - Setelahnya pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax: *'git clone "link URL yang sebelumnya telah kalian copy"'*. <br>
+    ![gitpush](Foto/gitclone.png) <br>
+    
+
 
 
 
