@@ -77,6 +77,10 @@ ________________________________________________________________________________
     ![gitpush](Foto/gitadd.png) <br>
       - Jika sudah, langkah berikutnya kita akan melakukan *commit*. Yang dimana fungsi commit itu sendiri adalah untuk menyimpan perubahan yang dilakukan, tetapi tidak terjadi perubahan pada remote repository. Caranya dengan mengetikan syntax: *'git commit "Update README.md'*. <br>
       ![gitpush](Foto/gitupdate.png) <br>
+        - Setelah git commit selesai di lakukan. Untuk saat ini kita akan melakuka Git Push, yang dimana arti Git Push itu sendiri berfungsi untuk mengirimkan perubahan file yang telah di commit ke remote repository. Kalian hanya perlu mengetikan syntax: *'git push'*. <br>
+        ![gitpush](Foto/gitpush.png) <br>
+        
+
 
 
 
