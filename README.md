@@ -48,6 +48,9 @@ ________________________________________________________________________________
       ![gitpush](Foto/gitsave.png) <br>
        - Setelah itu arahkan kursor pada bagian *'Create Repository'* <br>
        ![gitpush](Foto/create.png) <br>
+        - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README' yang berwarna biru untuk membukanya. <br>
+        ![gitpush](Foto/gitlatihanvcs.png) <br>
+
 
 
 
