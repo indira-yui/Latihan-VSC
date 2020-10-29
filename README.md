@@ -67,7 +67,9 @@ ________________________________________________________________________________
   ![gitpush](Foto/gitbash.png) <br>
     - Setelahnya pop Up Command Prompt (CMD) akan terbuka. Pada proses ini kita akan melakukan download file repository yang tadi dibuat, dengan mengetikkan syntax: *'git clone "link URL yang sebelumnya telah kalian copy"'*. <br>
     ![gitpush](Foto/gitclone.png) <br>
-    
+      - Setelah proses cloning telah selesai, pada saat ini kita masih berada pada folder awal yang dimana kita harus masuk kedalam folder yang telah kita cloning tadi yaitu *'LatihanVCS'* dengan cara mengetikkan syntax: *'cd LatihanVCS/'* <br>
+      ![gitpush](Foto/gitcd.png) <br>
+
 
 
 
