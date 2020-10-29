@@ -19,5 +19,5 @@ ________________________________________________________________________________
   
    - jika sudah mendapat tampilan seperti gambar dibawah ini, itu mengartikan bahwa git kalian telah berhasil terinstall. <br>
    ![gitpush](Foto/gitversion.png) <br>
-   
+
 
