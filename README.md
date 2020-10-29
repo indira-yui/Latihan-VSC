@@ -73,6 +73,9 @@ ________________________________________________________________________________
   
   - Setelah selesai mengedit jangan lupa untuk menyimpannya dengan cara menekan tombol file yang berada dipojok kiri  atas dan pilihlah kolom save. <br>
   ![gitpush](Foto/gitmain.png) <br>
+    - Setelah sudah dapat dipastikan benar-benar tersimpan. Langkah selanjutnya adalah membuka kembali App Gitbash dan mengetikan syntax: *'git add .'* <br>
+    ![gitpush](Foto/gitadd.png) <br>
+
 
 
 
