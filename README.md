@@ -20,4 +20,4 @@ ________________________________________________________________________________
    - jika sudah mendapat tampilan seperti gambar dibawah ini, itu mengartikan bahwa git kalian telah berhasil terinstall. <br>
    ![gitpush](Foto/gitversion.png) <br>
     - Jika sudah, lakukanlah pengecekan untuk mengetahui apakah kita sudah terdaftar atau belum dengan mengetikan syntax: *'git config --global user.name'  'git config --global user.email'*. Seperti pada gambar dibawah. <br>
-    ![gitpush](Foto/gitconfi.png) <br>
+    ![gitpush](Foto/gitconfig.png) <br>
