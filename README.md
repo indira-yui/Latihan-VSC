@@ -46,6 +46,9 @@ ________________________________________________________________________________
     ![gitpush](Foto/gitrepository.png) <br>
       - Pilih kolom yang bertuliskan 'README file' pada pilihan yang diberikan. <br>
       ![gitpush](Foto/gitsave.png) <br>
+       - Setelah itu arahkan kursor pada bagian *'Create Repository'* <br>
+       ![gitpush](Foto/create.png) <br>
+
 
 
          
