@@ -50,6 +50,9 @@ ________________________________________________________________________________
        ![gitpush](Foto/create.png) <br>
         - Setelah mendapat tampilan seperti gambar dibawah, berarti Repository kalian sudah berhasil dibuat. dan kalian juga bisa tekan pada tulisan 'README' yang berwarna biru untuk membukanya. <br>
         ![gitpush](Foto/gitlatihanvcs.png) <br>
+         - Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya pada lembar kerja, kalian bisa menekan gambar pensil seperti pada gambar dibawah ini. <br>
+         ![gitpush](Foto/gitedit.png) <br>
+
 
 
 
